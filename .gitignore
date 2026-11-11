@@ -10,8 +10,6 @@ Wave */
 *.gpkg
 *.shp
 *.tif
-*.doc
-*.docx
 
 # Secrets
 .env
